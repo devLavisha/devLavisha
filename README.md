@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+## Hi there 👋! I,m Lavisha
 
-<!--
-**devLavisha/devLavisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer| Computer Science Engineering Student| Learner| Data Structures & Algorithms**
 
-Here are some ideas to get you started:
+Building scalabel software, strengthening problem solving skills thorugh Data Structures & Algorithms, and exploring modern backend and AI Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to become a skilled software Engineer capable of developing scaalable, efficient and user-friendly applications.
+<p> <a href="https://github.com/devLavisha"> </a> </p>
+
+</div>
+
+**---**
+
+**## About Me**
+✨ B.Tech Computer Science Engineering Student
+✨ Passionate about Software Engineering and Backend Development
+✨ Currently learning C++, React, Node.js, Express.js, MongoDB, and System Design
+✨ Practicing Data Structures & Algorithms
+✨ Exploring emerging technologies such as Artificial Intelligence and LLM-powered applications.
+✨**Goal**: Build scalable products and grow into a profe
